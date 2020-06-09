@@ -1,12 +1,17 @@
 {
   "name": "easybank",
   "version": "1.0.0",
-  "description": "",
+  "description": "Landing Page de un banco con SASS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sulbaranjc/easybank-sass.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
